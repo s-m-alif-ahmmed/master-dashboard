@@ -1,13 +1,6 @@
-# eVento
+# Laravel 11 Master Dashboard
 
-## Here are the following features that will have in eVento app
+## Here are the following features that will have in this Master Dashboard
 
 - Authentication.
-- Profile creation.
-- Search & Browse.
-- Dynamic Calendar.
-- Live chat.
-- QR scanning.
-- Events booking.
-- P-ayments.
 - Admin panel.
